@@ -2,13 +2,13 @@ dockermachine-perpetual-dropcache
 ===
 
 A hack script that continuosly drops caches. This is to
-temporarily address the vboxsf bug that causes files to
-fail to see changes made from the host.
+temporarily address a vboxsf bug that fails to properly
+sync files from the host.
 
 See: https://www.virtualbox.org/ticket/14746
 
-DO NOT USE IN PRODUCTION. And you probably never will. You
-won't run virtualbox in production, right?
+DO NOT USE IN PRODUCTION. And you probably won't need to.
+You won't be using virtualbox in production, right?
 
 Installation and Usage
 ---
