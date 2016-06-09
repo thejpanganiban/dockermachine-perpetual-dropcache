@@ -7,7 +7,9 @@ sync files from the host.
 
 See: https://www.virtualbox.org/ticket/14746
 
-DO NOT USE IN PRODUCTION. And you probably won't need to.
+DO NOT USE IN PRODUCTION. THIS IS ONLY USEFUL IF YOU ARE
+SYNCING ON VBOXSF.
+
 You won't be using virtualbox in production, right?
 
 Installation and Usage
