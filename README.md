@@ -22,5 +22,5 @@ $ git clone https://github.com/thejpanganiban/dockermachine-perpetual-dropcache
 Run the script
 
 ```sh
-./perpetual_drop_cache.sh
+./perpetual_drop_cache.sh  # Uses $DOCKER_MACHINE_NAME to identify the machine to operate on.
 ```
