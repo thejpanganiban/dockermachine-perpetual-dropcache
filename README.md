@@ -7,6 +7,9 @@ fail to see changes made from the host.
 
 See: https://www.virtualbox.org/ticket/14746
 
+DO NOT USE IN PRODUCTION. And you probably never will. You
+won't run virtualbox in production, right?
+
 Installation and Usage
 ---
 
